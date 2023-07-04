@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trabajador
+comment1.params=id\ nombre
+comment1.target=Trabajador(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+numComments=6

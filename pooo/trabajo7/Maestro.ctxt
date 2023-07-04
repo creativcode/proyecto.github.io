@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maestro
+comment1.params=id\ nombre\ sueldouno\ sueldodos\ sueldotres
+comment1.target=Maestro(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+comment3.params=
+comment3.target=double\ getSueldouno()
+comment4.params=Sueldouno
+comment4.target=void\ setSueldouno(double)
+comment5.params=
+comment5.target=double\ getSueldodos()
+comment6.params=sueldodos
+comment6.target=void\ setSueldodos(double)
+comment7.params=
+comment7.target=double\ getSueldotres()
+comment8.params=sueldotres
+comment8.target=void\ setSueldotres(double)
+numComments=9

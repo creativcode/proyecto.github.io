@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Obra
+comment1.params=nit\ nombreObra
+comment1.target=Obra(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getNombreObra()
+comment4.params=nombreObra
+comment4.target=void\ setNombreObra(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumAyudantes()
+comment6.params=
+comment6.target=int\ getNumOficiales()
+comment7.params=
+comment7.target=int\ getNumMaestros()
+comment8.params=
+comment8.target=double\ calcularPromedioGeneral()
+numComments=9
