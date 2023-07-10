@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ObreroAccesoImpl
+comment1.params=obrero
+comment1.target=boolean\ registrarObrero(Obrero)
+comment2.params=
+comment2.target=java.util.List\ obtenerObreros()
+comment3.params=obrero
+comment3.target=boolean\ actualizarObrero(Obrero)
+comment4.params=obrero
+comment4.target=boolean\ eliminarObrero(Obrero)
+comment5.params=id
+comment5.target=Obrero\ obtenerObreroPorId(int)
+comment6.params=rs
+comment6.target=Obrero\ obtenerObreroDesdeResultSet(java.sql.ResultSet)
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControlObrero
+comment1.params=
+comment1.target=ControlObrero()
+comment2.params=obrero
+comment2.target=void\ registrar(Obrero)
+comment3.params=obrero
+comment3.target=void\ actualizar(Obrero)
+comment4.params=obrero
+comment4.target=void\ eliminar(Obrero)
+comment5.params=
+comment5.target=void\ verObreros()
+comment6.params=id
+comment6.target=Obrero\ obtenerObreroPorId(int)
+comment7.params=mensaje\ e
+comment7.target=void\ mostrarError(java.lang.String,\ java.lang.Exception)
+numComments=8

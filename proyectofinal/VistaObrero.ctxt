@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VistaObrero
+comment1.params=obrero
+comment1.target=void\ verObrero(Obrero)
+comment2.params=obreros
+comment2.target=void\ verObreros(java.util.List)
+numComments=3

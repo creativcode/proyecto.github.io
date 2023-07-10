@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExcepcionAcceso
+comment1.params=message
+comment1.target=ExcepcionAcceso(java.lang.String)
+comment2.params=message\ cause
+comment2.target=ExcepcionAcceso(java.lang.String,\ java.lang.Throwable)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
